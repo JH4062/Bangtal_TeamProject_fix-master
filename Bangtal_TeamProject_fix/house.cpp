@@ -168,7 +168,7 @@ void timerCallback(TimerID timer) {
 	}
 
 	if (timer == moveTimer) {
-		//processing animation of movement of warrior
+		//animation of movement of warrior
 		Move();
 	}
 
